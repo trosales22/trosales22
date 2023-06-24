@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tristan Rosales, a Software Engineer.
+I'm Tristan Rosales, a Software Engineer with 5yrs of experience in software development.
 
 ![trosales22's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=trosales22)
 
