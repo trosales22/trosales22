@@ -5,6 +5,6 @@ I'm Tristan Rosales, a FullStack Web & Mobile Developer with more than 6yrs of e
 
 ## Used Languages
 - PHP (CodeIgniter, Laravel/Lumen)
-- JavaScript/TypeScript (Node, Express, Adonis, Angular, Vue, React)
+- JavaScript/TypeScript (Node, Express, Adonis, React, Vue, Angular)
 - Java (J2EE, JavaSE, Spring, Hibernate, Android)
 - C# (Unity)
