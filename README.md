@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tristan Rosales, a FullStack Web & Mobile Developer with more than 6yrs of experience in software development.
+I'm Tristan Rosales, a FullStack Web & Mobile Developer with more than 7yrs of experience in software development.
 
 ![trosales22's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=trosales22)
 
