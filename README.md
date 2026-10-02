@@ -1,6 +1,6 @@
 # Hi, I'm Tristan Rosales 👋
 
-I'm a full-stack developer and product builder with 8+ years of experience creating web platforms, mobile apps, and games. I work across product design, front-end and back-end development, and shipping software people can use.
+I’m a full-stack web and mobile developer, product builder, and AI engineer with 8+ years of experience. I build web platforms, mobile apps, games, and AI-powered products from idea to launch.
 
 ## Tech stack
 
@@ -18,7 +18,7 @@ I'm a full-stack developer and product builder with 8+ years of experience creat
 
 ## Apps and games I've created
 
-These project pages are sample links you can replace with your preferred App Store, Google Play, or website URLs.
+Explore each app and game through its project page.
 
 | Project | What it does | Project page |
 | --- | --- | --- |
@@ -37,5 +37,6 @@ These project pages are sample links you can replace with your preferred App Sto
 ## Get in touch
 
 - **Email:** [tristanrosales0@gmail.com](mailto:tristanrosales0@gmail.com)
+- **Portfolio:** [tristanrosales.app](https://tristanrosales.app)
 
 ![GitHub streak stats for trosales22](https://github-readme-streak-stats.herokuapp.com/?user=trosales22)
