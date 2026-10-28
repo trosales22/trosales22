@@ -27,6 +27,7 @@ Explore each app and game through its project page.
 | **BuddyPort** | A tiny-world adventure with missions and friendly companions. | [View BuddyPort](https://buddyport.tristanrosales.app) |
 | **BuddyPort: Space Adventure** | A space-themed catch-and-dodge adventure. | [View Space Adventure](https://buddyport.tristanrosales.app/space) |
 | **BuddyPort: Pirate Adventure** | A pirate-themed catch-and-dodge adventure. | [View Pirate Adventure](https://buddyport.tristanrosales.app/pirate) |
+| **BuddyPort: Sports Adventure** | A sports-themed catch-and-dodge adventure. | [View Sports Adventure](https://buddyport.tristanrosales.app/sports) |
 | **Snackaroo** | A playful picnic-serving game. | [View Snackaroo](https://snackaroo.tristanrosales.app) |
 | **Buseng: Match & Serve** | A food puzzle arcade game about matching tiles and filling orders. | [View Buseng](https://tristanrosales.app/apps/buseng) |
 | **Tipi** | A savings companion for daily habits and goals. | [View Tipi](https://tristanrosales.app/apps/tipi) |
